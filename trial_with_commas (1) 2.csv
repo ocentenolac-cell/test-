@@ -1,4 +1,3 @@
-trial_with_commas (1)
 Comp_date,Comp_time,Event,Ardn_time[ms],ADC[0-1023],SiPM[mV],Deadtime[ms],Temp[C]
 1,2629,76,19.69,0,22.19,,
 2,2792,71,19.06,5,22.19,,
